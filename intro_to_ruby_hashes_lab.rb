@@ -3,11 +3,11 @@ hash = {}
 end
 
 def actor
-new_hash = {:name => "Dwayne The Rock Johnson"}
+new_hash = {name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {:railroads => {}}
+	monopoly = {railroads => {}}
 
 end
 
